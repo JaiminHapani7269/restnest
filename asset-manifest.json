@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restnest/static/css/main.af22037b.css",
-    "main.js": "/restnest/static/js/main.bd9edd47.js",
+    "main.css": "/restnest/static/css/main.4f6379c4.css",
+    "main.js": "/restnest/static/js/main.f397fab8.js",
     "static/js/787.7c5c7423.chunk.js": "/restnest/static/js/787.7c5c7423.chunk.js",
     "static/media/house.png": "/restnest/static/media/house.9cc7762909dc46808950.png",
     "static/media/logo.png": "/restnest/static/media/logo.e452be7f30f099052ce2.png",
@@ -15,12 +15,12 @@
     "static/media/quotes.svg": "/restnest/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
     "index.html": "/restnest/index.html",
     "static/media/facebook.svg": "/restnest/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
-    "main.af22037b.css.map": "/restnest/static/css/main.af22037b.css.map",
-    "main.bd9edd47.js.map": "/restnest/static/js/main.bd9edd47.js.map",
+    "main.4f6379c4.css.map": "/restnest/static/css/main.4f6379c4.css.map",
+    "main.f397fab8.js.map": "/restnest/static/js/main.f397fab8.js.map",
     "787.7c5c7423.chunk.js.map": "/restnest/static/js/787.7c5c7423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af22037b.css",
-    "static/js/main.bd9edd47.js"
+    "static/css/main.4f6379c4.css",
+    "static/js/main.f397fab8.js"
   ]
 }
