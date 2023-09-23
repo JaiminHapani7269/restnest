@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restnest/static/css/main.bfef6bfb.css",
-    "main.js": "/restnest/static/js/main.2b8ae3a3.js",
+    "main.css": "/restnest/static/css/main.6c07952b.css",
+    "main.js": "/restnest/static/js/main.a5c96d3c.js",
     "static/js/787.7c5c7423.chunk.js": "/restnest/static/js/787.7c5c7423.chunk.js",
     "static/media/house2.png": "/restnest/static/media/house2.21e99ff6ee010071bcb7.png",
     "static/media/house.png": "/restnest/static/media/house.9cc7762909dc46808950.png",
@@ -16,12 +16,12 @@
     "static/media/quotes.svg": "/restnest/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
     "index.html": "/restnest/index.html",
     "static/media/facebook.svg": "/restnest/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
-    "main.bfef6bfb.css.map": "/restnest/static/css/main.bfef6bfb.css.map",
-    "main.2b8ae3a3.js.map": "/restnest/static/js/main.2b8ae3a3.js.map",
+    "main.6c07952b.css.map": "/restnest/static/css/main.6c07952b.css.map",
+    "main.a5c96d3c.js.map": "/restnest/static/js/main.a5c96d3c.js.map",
     "787.7c5c7423.chunk.js.map": "/restnest/static/js/787.7c5c7423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfef6bfb.css",
-    "static/js/main.2b8ae3a3.js"
+    "static/css/main.6c07952b.css",
+    "static/js/main.a5c96d3c.js"
   ]
 }
